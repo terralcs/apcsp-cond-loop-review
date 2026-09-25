@@ -1,2 +1,2 @@
 // Google Apps Script Web App URL.
-const GOOGLE_SHEET_ENDPOINT = "https://script.google.com/macros/s/AKfycbwLW0b31y2PK20G_7bV2yI2VykV3bVD4w_hdYlB-uV6xsRErcy_s9jSRylbUQDpctgw/exec";
+const GOOGLE_SHEET_ENDPOINT = "https://script.google.com/macros/s/AKfycbxwkrTR48RBSB8XPDY4vKHm44SRTfjasTsi4w1g8mbj_NWVSGddjokr_XKWG5WDsv5m/exec";
